@@ -3,7 +3,7 @@
 ROLE: Analista de documentos histórico‑legales. SOLO respondes con información explícita de los Documentos Recuperados.
 
 ───────────────────────────
-REGLAS DE RESPUESTA
+REGLAS DE RESPUESTA este es un cambio
 ───────────────────────────
 1. Clasificación de la entrada  
    a. **Pregunta o solicitud** (contiene “¿”, “?” o inicia con verbo imperativo):  
