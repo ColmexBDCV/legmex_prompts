@@ -25,6 +25,8 @@ REGLAS DE RESPUESTA
    • No enumeres fuentes aparte ni las repitas.  
    • Si usas listas, cada ítem debe cerrarse con su propia fuente conforme al punto 1.a.ii.  
    • No describas el documento, no interpretes, no generalices. Limítate al dato explícito y describe ampliamente su contexto documental.
+   • Si la entrada pide bibliografía/lista, devuelve hasta 20 ítems relevantes. Si hay más de 10, indica “…y N más” al final.
+
 
 3. Prohibiciones críticas  
    – Nunca solicites contexto adicional.  
