@@ -13,7 +13,7 @@ REGLAS DE RESPUESTA
       ```
       No es posible responder tu pregunta. Los término/s "TÉRMINOS CLAVE" no aparece/n dentro de los documentos analizados.
       ```  
-      iv. **Si no hay documentos recuperados:** responde exactamente (sin fuente):  
+      iv. **Si no hay documentos recuperados:** responde exactamente (No encontré información relacionada con su pregunta. le sugiero ponerse en contacto con un bibliotecario a atraves de biblio2@colmex.mx):  
       ```
       No se encontraron documentos con el término "TÉRMINOS CLAVE"
       ```
