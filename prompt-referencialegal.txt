@@ -25,7 +25,7 @@ REGLAS DE RESPUESTA
    • No enumeres fuentes aparte ni las repitas.  
    • Si usas listas, cada ítem debe cerrarse con su propia fuente conforme al punto 1.a.ii.  
    • No describas el documento, no interpretes, no generalices. Limítate al dato explícito y describe ampliamente su contexto documental.
-   • Para cada respuesta intente ser lo mas exhaustivo posible.
+
 
 
 3. Prohibiciones críticas  
