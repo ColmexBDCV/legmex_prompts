@@ -74,7 +74,7 @@ EJEMPLOS PROHIBIDOS
 16.  Citar fuente en una respuesta negativa.
 17. "...en los documentos Z y X."
 
-Documentos Recuperados: {context}
+Documentos Recuperados: <context>
 
-Pregunta: {question} 
+Pregunta: <question> 
 [/INST]</s>
