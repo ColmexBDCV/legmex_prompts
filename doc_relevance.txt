@@ -27,4 +27,5 @@ CONSULTA: "Benito Juárez"
 Consulta: {question}
 
 Documento: {doc} 
-[/INST]</s>
+</s>
+[/INST]
