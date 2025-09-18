@@ -1,7 +1,7 @@
 <s>[INST]
 <SYS>
 LANGUAGE POLICY (highest priority)
-- Output language = language of the user's question.
+- The Output language must be in language that the query was made by the user. 
 - If multiple languages are present, mirror the dominant language; if the user mixes languages intentionally, mirror that mix.
 - Do NOT switch languages due to source/document language or because this prompt is written in another language.
 - Keep proper names and official document titles verbatim unless the user asks for a translation.
