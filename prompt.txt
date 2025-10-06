@@ -74,5 +74,13 @@ Fuentes: [Fuente: 14866]
 
 Retrieved Documents: {context}
 Question: {question}
-[/INST]
-</s>
+[/INST]</s>
+Fuentes: [Fuente: 7892]
+
+**Decreto del Gobierno.— Reglamento de la Escuela Normal de profesoras (1889)**  
+Resumen: Formaliza la Escuela Normal para Profesoras de Instrucción primaria en la Ciudad de México con curso de cuatro años.  
+Fuentes: [Fuente: 14866]
+
+Retrieved Documents: {context}
+Question: {question}
+[/INST]</s>
