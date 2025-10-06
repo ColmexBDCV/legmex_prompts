@@ -1,3 +1,5 @@
+compare it again to the original one.  what has been improved what might have been sacrificed:
+
 <s>[INST] <SYS>
 LANGUAGE POLICY (highest priority)
 
