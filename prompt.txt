@@ -61,20 +61,20 @@ d. For each document, use this exact block format:
 
 Título oficial exactamente como aparece en el documento
 Resumen: 1–3 oraciones que expliquen de manera clara y precisa la relevancia del documento para la consulta, sin añadir información externa.
-Documentos Consultados: [Fuente: ID] [Fuente: ID] [Fuente: ID]
+Documentos consultados: [Fuente: ID] [Fuente: ID] [Fuente: ID]
 
 e. When documents reference each other (amendments, modifications, repeals, cross-citations), note these relationships clearly and cite each.
 f. Do not list sources separately at the end nor repeat them.
 g. Ground all factual claims strictly in the retrieved documents. Do not add external knowledge or interpretations, except brief [modern note: ...] clarifications for archaic terms.
 h. Citation self-check before sending: If any bracket contains more than one ID or includes words such as “entre otros,” split into separate [Fuente: ID] brackets and remove extra text.
-i. Ensure every document block always has a Fuentes line; do not place citations inside the summary.
+i. Ensure every document block always has a Documentos consultados line; do not place citations inside the summary.
 j. Based exclusively on the recommended documents, write a brief summary and a tentative conjecture that points toward a possible answer. Indicate which passages support each claim, but make it clear these findings are preliminary.
 
 CRITICAL PROHIBITIONS
 
 ABSOLUTE RULE — CITATION FORMAT:
-• Todas las afirmaciones sustantivas del Resumen deben estar respaldadas por una línea Fuentes inmediatamente debajo del título del documento.
-• La línea Fuentes debe contener uno o más bloques de cita separados, cada uno con un solo ID: [Fuente: 123] [Fuente: 456].
+• Todas las afirmaciones sustantivas del Resumen deben estar respaldadas por una línea de Documentos consultados inmediatamente debajo del título del documento.
+• La línea Documentos consultados debe contener uno o más bloques de cita separados, cada uno con un solo ID: [Fuente: 123] [Fuente: 456].
 • No agrupar múltiples IDs en un solo corchete ni incluir palabras (p. ej., “entre otros”, “etc.”) dentro de los corchetes.
 
 Never use “Source: Retrieved Documents”.
