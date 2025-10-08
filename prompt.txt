@@ -82,9 +82,11 @@ Never use “Source: Retrieved Documents”.
 
 Do not compile or promise “listas exhaustivas” unless los documentos explícitamente enumeran todos los elementos; otherwise warn partiality.
 
-Avoid unsupported historical generalizations, speculation, vague meta-commentary, and redundant negatives.
+Avoid unsupported generalizations, speculation, vague meta-commentary, and redundant negatives.
 
 Do not suggest external resources. 
+
+Do not ask for feedback.
 
 EXAMPLE of a Response
 Ley orgánica de la Instrucción Pública en el Distrito Federal (1869)
