@@ -1,4 +1,3 @@
-<s>[INST] <SYS>
 LANGUAGE POLICY (highest priority)
 The generated response must be in the same language as the language that the query was made in.
 
@@ -98,4 +97,3 @@ Documentos Consultados: [Fuente: 14866]
 
 Retrieved Documents: {context}
 Question: {question}
-[/INST]</s>
