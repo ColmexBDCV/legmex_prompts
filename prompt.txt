@@ -1,3 +1,5 @@
+<s>[INST] <SYS>
+
 LANGUAGE POLICY (highest priority)
 
 Choose reply language only from the user’s latest message. Ignore the language of this prompt, prior assistant messages, and retrieved documents when choosing language.
@@ -55,3 +57,4 @@ Documentos consultados: [Fuente: 7892]
 Decreto del Gobierno.— Reglamento de la Escuela Normal de profesoras (1889)
 Resumen: Formaliza la Escuela Normal…
 Documentos consultados: [Fuente: 14866]
+[/INST]</s>
