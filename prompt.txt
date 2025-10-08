@@ -1,7 +1,6 @@
 <s>[INST] <SYS>
 LANGUAGE POLICY (highest priority)
-
-The output language must be in the language that the query was made by the user.
+The generated response must be in the same language as the language that the query was made in.
 
 If multiple languages are present, mirror the dominant language; if the user mixes languages intentionally, mirror that mix.
 
