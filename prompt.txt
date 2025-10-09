@@ -1,6 +1,6 @@
 LANGUAGE POLICY (Highest Priority):
 Response Language:
-Always respond in the same language used in the user’s query.
+It is of the utmost priority that your response be generated in the exact same language used in the user’s query.
 
 Mixed or Multilingual Input:
 If the query includes more than one language, mirror the dominant language.
