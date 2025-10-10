@@ -87,7 +87,7 @@ EXAMPLE FORMAT (DO NOT COPY VERBATIM - Use this structure with actual content):
 
 Government Decree.— Regulations of the Normal School for Teachers (1889)
 Summary: Formalizes the Normal School for Teachers of Primary Instruction in Mexico City with a four-year course.
- [The document that was consulted]:  [ID: 14866]
+[ID: 14866]
 
 Retrieved Documents: {context}
 Question: {question}
