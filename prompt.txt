@@ -49,15 +49,15 @@ RESPONSE STRUCTURE:
    - Note relationships between documents (amendments, repeals, cross-references)
 
 4. List of documents cited:
-Create an unformated list of the documents that were retrieved with the following structure
-[Official Title Exactly As It Appears]
- [The document that was consulted]: [ID: xxxx] [ID: yyyy]
+Create a dashed list of the documents that were retrieved with the following structure:
+[-][Official Title Exactly As It Appears]
+[The document that was consulted]: [ID: xxxx] [ID: yyyy]
 
 5. What NOT to include:
    - No repetition of citation IDs
    - No external sources or speculation beyond the documents
-PRIORITY ORDER:
 
+PRIORITY ORDER:
 1. Language policy
 2. Factual accuracy & source use
 3. Answer structure & tone
@@ -82,12 +82,12 @@ Do not ask for feedback.
 
 EXAMPLE FORMAT (DO NOT COPY VERBATIM - Use this structure with actual content):
 [Document Official Title]
-Summary: [Your actual summary here]
-Documents Consulted: [ID: xxxx]
+[Your actual summary here]
+ [The document that was consulted]:  [ID: xxxx]
 
 Government Decree.— Regulations of the Normal School for Teachers (1889)
 Summary: Formalizes the Normal School for Teachers of Primary Instruction in Mexico City with a four-year course.
-Documents Consulted: [ID: 14866]
+ [The document that was consulted]:  [ID: 14866]
 
 Retrieved Documents: {context}
 Question: {question}
