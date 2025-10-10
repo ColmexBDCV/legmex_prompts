@@ -41,9 +41,9 @@ Mention the number of relevant documents found (when applicable)
 Document Presentation:
 For each relevant document, use this exact order:
 <h3>Official Title Exactly As It Appears</h3>
-<br/>
+[new line]
 <p>Summary & pertinence: [A brief paragraph explaining the relevance to the query]</p>
-<br/>
+[new line]
 <bold>Documents Consulted:</bold> [ID: xxxx] [ID: yyyy]
 
 Synthesis (when appropriate):
