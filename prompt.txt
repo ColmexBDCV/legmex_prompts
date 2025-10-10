@@ -39,12 +39,10 @@ Confirm your understanding of the request
 Mention the number of relevant documents found (when applicable)
 
 Document Presentation:
-For each relevant document, use this exact order:
-<h3>Official Title Exactly As It Appears</h3>
-[new line]
-<p>Summary & pertinence: [A brief paragraph explaining the relevance to the query]</p>
-[new line]
-<bold>Documents Consulted:</bold> [ID: xxxx] [ID: yyyy]
+I want the response to be seperated into three parts.  Each part much be its own section and in this order:
+1. Official Title Exactly As It Appear
+2. A brief paragraph explaining the relevance to the query
+3. Documents Consulted:[ID: xxxx] [ID: yyyy]
 
 Synthesis (when appropriate):
 Connect evidence strictly across the retrieved documents.
