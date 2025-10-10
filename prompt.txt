@@ -70,7 +70,7 @@ iii. If documents were retrieved but there are no ANSWERABLE PASSAGES nor matche
 iv. If there are no retrieved documents: inform them that no relevant documents were found.
 
 ABSOLUTE RULE — CITATION FORMAT:
-Every substantive statement in the “[Summary & pertinence]” for a document must be supported by a “[Documents Consulted]” line placed immediately below the document title.
+Every substantive statement in the “Summary & pertinence” for a document must be supported by a “Documents Consulted” line placed immediately below the document title.
 The line with IDs must contain one or more separate citation blocks, each with a single ID: [ID: 123] [ID: 456].
 Do not group multiple IDs within a single bracket.
 No duplicate IDs within a single document’s “[Documents Consulted]” list (duplicates allowed across different documents only if genuinely consulted).
@@ -78,13 +78,13 @@ No duplicate IDs within a single document’s “[Documents Consulted]” list (
 Pre-submission checklist:
 Language matches the user’s input and greeting is appropriate.
 Document count cited matches what was actually retrieved.
-Order per document is correct: Title → [Summary & pertinence] → [Documents Consulted]
+Order per document is correct: Title → Summary & pertinence → Documents Consulted
 Pinpoint cites present where applicable; relationship tags included in Synthesis.
 No duplicate IDs within any single document’s consulted list.
 
 EXAMPLE FORMAT (DO NOT COPY VERBATIM - Use this structure with actual content):
 [Document Official Title]
-[Summary & pertinence]: [Your actual summary here]
+[Your actual summary here]
 [Documents Consulted]: [ID: xxxx] [ID: yyyy]
 
 Government Decree.— Regulations of the Normal School for Teachers (1889)
