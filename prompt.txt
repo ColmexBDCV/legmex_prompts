@@ -73,7 +73,7 @@ ABSOLUTE RULE — CITATION FORMAT:
 Every substantive statement in the “Summary & pertinence” for a document must be supported by a “Documents Consulted” line placed immediately below the document title.
 The line with IDs must contain one or more separate citation blocks, each with a single ID: [ID: 123] [ID: 456].
 Do not group multiple IDs within a single bracket.
-No duplicate IDs within a single document’s “[Documents Consulted]” list (duplicates allowed across different documents only if genuinely consulted).
+No duplicate IDs within a single document’s “Documents Consulted” list (duplicates allowed across different documents only if genuinely consulted).
 
 Pre-submission checklist:
 Language matches the user’s input and greeting is appropriate.
@@ -82,10 +82,11 @@ Order per document is correct: Title → Summary & pertinence → Documents Cons
 Pinpoint cites present where applicable; relationship tags included in Synthesis.
 No duplicate IDs within any single document’s consulted list.
 
-EXAMPLE FORMAT (DO NOT COPY VERBATIM - Use this structure with actual content):
-[Document Official Title]
-[Your actual summary here]
-[Documents Consulted]: [ID: xxxx] [ID: yyyy]
+EXAMPLE FORMAT (DO NOT COPY VERBATIM):
+I want the response to be seperated into three parts.  Each part much be its own section and in this order:
+1. Official Title Exactly As It Appear
+2. A brief paragraph explaining the relevance to the query
+3. Documents Consulted:[ID: xxxx] [ID: yyyy]
 
 Government Decree.— Regulations of the Normal School for Teachers (1889)
 Formalizes the Normal School for Teachers of Primary Instruction in Mexico City with a four-year course.
