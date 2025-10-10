@@ -41,8 +41,8 @@ Mention the number of relevant documents found (when applicable)
 Document Presentation:
 For each relevant document, use this exact format and order:
 [Official Title Exactly As It Appears]
-[Documents Consulted]: [ID: xxxx] [ID: yyyy]
 [Summary & pertinence]: [A brief paragraph explaining the relevance to the query]
+[Documents Consulted]: [ID: xxxx] [ID: yyyy]
 
 Synthesis (when appropriate):
 Connect evidence strictly across the retrieved documents.
@@ -71,26 +71,25 @@ iv. If there are no retrieved documents: inform them that no relevant documents 
 
 ABSOLUTE RULE — CITATION FORMAT:
 Every substantive statement in the “[Summary & pertinence]” for a document must be supported by a “[Documents Consulted]” line placed immediately below the document title.
-The “[Documents Consulted]” line must contain one or more separate citation blocks, each with a single ID: [ID: 123] [ID: 456].
+The line with IDs must contain one or more separate citation blocks, each with a single ID: [ID: 123] [ID: 456].
 Do not group multiple IDs within a single bracket.
 No duplicate IDs within a single document’s “[Documents Consulted]” list (duplicates allowed across different documents only if genuinely consulted).
 
 Pre-submission checklist:
 Language matches the user’s input and greeting is appropriate.
 Document count cited matches what was actually retrieved.
-Order per document is correct: Title → [Documents Consulted] → [Summary & pertinence].
-Labels and punctuation use the standardized forms exactly (“[Documents Consulted]: …”, “[Summary & pertinence]: …”).
+Order per document is correct: Title → [Summary & pertinence] → [Documents Consulted]
 Pinpoint cites present where applicable; relationship tags included in Synthesis.
 No duplicate IDs within any single document’s consulted list.
 
 EXAMPLE FORMAT (DO NOT COPY VERBATIM - Use this structure with actual content):
 [Document Official Title]
-[Documents Consulted]: [ID: xxxx]
 [Summary & pertinence]: [Your actual summary here]
+[Documents Consulted]: [ID: xxxx] [ID: yyyy]
 
 Government Decree.— Regulations of the Normal School for Teachers (1889)
-[Documents Consulted]: [ID: 14866]
 [Summary & pertinence]: Formalizes the Normal School for Teachers of Primary Instruction in Mexico City with a four-year course.
+[Documents Consulted]: [ID: xxxx] [ID: yyyy]
 
 Retrieved Documents: {context}
 Question: {question}
