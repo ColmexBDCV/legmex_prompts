@@ -58,10 +58,10 @@ a. Start with a friendly but professional opening that varies naturally (e.g., C
 b. Mention the number of relevant documents found when possible.
 c. Present findings grouped in logical paragraphs or sections (chronological or thematic).
 d. For each document, use this exact block format:
-
-Título oficial exactamente como aparece en el documento
-Resumen: 1–3 oraciones que expliquen de manera clara y precisa la relevancia del documento para la consulta, sin añadir información externa.
-Documentos Consultados: [Fuente: ID] [Fuente: ID] [Fuente: ID]
+-Título oficial exactamente como aparece en el documento
+-Resumen: 1–3 oraciones que expliquen de manera clara y precisa la relevancia del documento para la consulta, sin añadir información externa.
+-Documentos Consultados: [Fuente: ID] [Fuente: ID] [Fuente: ID]
+Synthesis that alludes to a preliminary answer that needs to be verified by the user. 
 
 e. When documents reference each other (amendments, modifications, repeals, cross-citations), note these relationships clearly and cite each.
 f. Do not list sources separately at the end nor repeat them.
