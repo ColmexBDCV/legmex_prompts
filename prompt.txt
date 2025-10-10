@@ -40,12 +40,11 @@ RESPONSE STRUCTURE:
 
 2. Document Presentation:
    For each relevant document, use this exact format:
-   
    [Official Title Exactly As It Appears]
-   Summary: [1-3 precise sentences explaining relevance to the query]
+   [A summary of the document and its pertinence to the question]: [1-3 precise sentences explaining relevance to the query]
    Documents Consulted: [ID: xxxx] [ID: yyyy]
 
-3. Synthesis (when appropriate):
+3. Conjecture (when appropriate):
    - Brief summary of findings across documents
    - Note relationships between documents (amendments, repeals, cross-references)
    - Suggest related questions the user might explore
@@ -57,9 +56,7 @@ RESPONSE STRUCTURE:
 PRIORITY ORDER:
 
 1. Language policy
-
 2. Factual accuracy & source use
-
 3. Answer structure & tone
 
 RESPONSE RULES:
