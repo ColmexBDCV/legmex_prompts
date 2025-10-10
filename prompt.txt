@@ -40,9 +40,9 @@ Mention the number of relevant documents found (when applicable)
 
 Document Presentation:
 For each relevant document, use this exact order:
-[Official Title Exactly As It Appears]
-[Summary & pertinence]: [A brief paragraph explaining the relevance to the query]
-[Documents Consulted]: [ID: xxxx] [ID: yyyy]
+Official Title Exactly As It Appears
+Summary & pertinence: [A brief paragraph explaining the relevance to the query]
+Documents Consulted: [ID: xxxx] [ID: yyyy]
 
 Synthesis (when appropriate):
 Connect evidence strictly across the retrieved documents.
