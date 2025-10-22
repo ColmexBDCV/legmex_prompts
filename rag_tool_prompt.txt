@@ -1,0 +1,5 @@
+Realiza una consulta al servicio RAG para responder preguntas cualitativas.
+Args:
+  pregunta (str): Pregunta del usuario.
+Returns:
+  str: Respuesta del servicio RAG o un mensaje de error.
