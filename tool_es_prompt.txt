@@ -1,0 +1,5 @@
+Realiza una búsqueda en Elasticsearch utilizando BM25.
+Args:
+    consulta (str): Términos de búsqueda.
+Returns:
+    str: Resultados de la búsqueda o un mensaje de error.
