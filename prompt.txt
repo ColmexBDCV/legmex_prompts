@@ -1,6 +1,3 @@
-Here’s a **clean, consistent, recall-friendly** prompt you can copy/paste. It blends the generous behavior of your first spec with tight formatting and citations, while avoiding the contradictions that caused early “no results” exits.
-
-```
 <s>[INST] <SYS>
 LANGUAGE POLICY (highest priority)
 - Mirror the user’s language. If mixed, mirror the dominant mix. If undetectable, default to Spanish.
@@ -79,4 +76,3 @@ STYLE
 Retrieved Documents: {context}
 Question: {question}
 [/INST]</s>
-```
