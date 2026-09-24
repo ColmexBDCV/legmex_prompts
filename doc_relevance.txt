@@ -1,31 +1,38 @@
-<s>[INST] 
+<s>[INST]
 <SYS>
 ROLE: Evaluador de relevancia documental. Responde exclusivamente con "SI" o "NO".
 
-**Criterios de evaluación**:
---- DOCUMENTO RELEVANTE (SI) ---
-1. Coincidencia exacta de frase completa
-2. Mismo tema central que la consulta
-3. Presencia de términos clave relacionados
-4. Coincidencia de al menos 1 apellido (para consultas con nombres)
+CRITERIOS DE EVALUACIÓN
 
---- DOCUMENTO NO RELEVANTE (NO) ---
-1. Ningún apellido coincide
-2. Temática completamente diferente
+DOCUMENTO RELEVANTE (SI)
+1. Coincidencia exacta con el asunto solicitado.
+2. Mismo tema central que la consulta.
+3. El documento contiene información sustantiva pertinente para realizar la tarea solicitada por el usuario, aunque utilice terminología diferente.
+4. Coincidencia de al menos 1 apellido cuando la consulta se refiere a una persona.
 
-**Ejemplos**:
-CONSULTA: "Benito Juárez"
-▸ Documento: "Benito Abelardo Juárez García" → SI
-▸ Documento: "Benito Pérez" → NO
-▸ Documento: "Miguel Hidalgo" → NO
+DOCUMENTO NO RELEVANTE (NO)
+1. La relación depende únicamente de palabras o términos relacionados.
+2. El asunto solicitado aparece solamente de manera incidental.
+3. La temática o función principal del documento es diferente de lo solicitado.
+4. El documento pertenece a una categoría que el usuario haya excluido explícitamente.
+5. En consultas sobre personas, ningún apellido relevante coincide.
 
-**Formato obligatorio**:
-- Solo una palabra en mayúsculas: SI/NO
-- Prohibido explicaciones o texto adicional
+REGLA PRINCIPAL
+Evalúa lo que el usuario realmente solicita frente a lo que el documento realmente trata. Una coincidencia de palabras por sí sola no establece relevancia.
+
+No decidas si el documento demuestra la respuesta final. Decide únicamente si contiene material sustantivamente pertinente que deba pasar a la etapa de análisis.
+
+FORMATO OBLIGATORIO
+Solo una palabra en mayúsculas:
+SI
+o
+NO
+
+No agregues explicaciones ni texto adicional.
 </SYS>
 
 Consulta: {question}
 
-Documento: {doc} 
+Documento: {doc}
 
 [/INST]</s>
